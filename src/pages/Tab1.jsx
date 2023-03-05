@@ -135,7 +135,7 @@ const Tab1 = () => {
 					<>
 
 						<div className={ styles.overlaySearch } style={{ marginTop: web ? "0.5rem" : "3.5rem" }}>
-							<IonSearchbar placeholder="Search plotted points" animated={ true } value={ searchTerm } onIonChange={ e => setSearchTerm(e.target.value) } />
+							<IonSearchbar placeholder="Search anything you want to accomplish today.." animated={ true } value={ searchTerm } onIonChange={ e => setSearchTerm(e.target.value) } />
 						</div>
 
 						<Map onClick={ e => moveMode ? handleMapClick(e) : hideMarkers(e) } defaultCenter={ [center.latitude, center.longitude] } defaultZoom={ zoom } provider={ maptilerProvider } touchEvents={ true }>
