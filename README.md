@@ -9,5 +9,5 @@ ionic serve
 ```
 
 ## Screenshots
-<img src="https://github.com/markperdon/errandz-alpha/blob/main/ss/Screen-Shot-2023-03-05.png" height="500em" /> &nbsp; &nbsp; 
+<img src="https://github.com/markperdon/komission/blob/main/ss/Screen-Shot-2023-03-05.png" height="500em" /> &nbsp; &nbsp; 
 ##
